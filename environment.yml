@@ -4,7 +4,6 @@ channels:
 dependencies:
   - conda
   - python=3.7
-  - python.app
   - jupyter
   - pandas
   - matplotlib
