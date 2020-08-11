@@ -1,0 +1,17 @@
+name: CS345
+channels:
+  - defaults
+dependencies:
+  - conda
+  - python=3.7
+  - python.app
+  - jupyter
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - scikit-learn
+  - xlrd
+  - seaborn
+  - rise
+  - keras
+
