@@ -1,7 +1,13 @@
 
 # CS345: Machine learning Foundations and Practice
 
+<img style="padding: 10px; float:right;" alt="CC-BY-SA icon.svg in public domain" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/CC-BY-SA_icon.svg" width="125">
+
 This repository contains a set of Jupyter notebooks for Colorado State University's introductory machine learning course [CS345: Machine Learning Foundations and Practice](https://www.cs.colostate.edu/~cs345/).
+
+<img style="padding: 10px; float:right;" alt="CSU" src="https://static.colostate.edu/logo/reslogo-v2/assets/img/csu-responsive-symbol.min.svg
+" width="125">
+
 
 For most algorithms we present implementations from scratch, and practice using implementations from [scikit-learn](https://scikit-learn.org/).
 Algorithms are presented using a matrix/vector abstraction that translates to efficient Numpy code.
@@ -35,7 +41,7 @@ The notebooks for this course are divided into the following modules:
 * Classifier evaluation
   * [Cross-validation](notebooks/module05_01_cross_validation.ipynb)
   * [Measuring classifier accuracy](notebooks/module05_02_classifier_accuracy.ipynb)
-  *[ Model selection](notebooks/module05_03_model_selection.ipynb)
+  * [ Model selection](notebooks/module05_03_model_selection.ipynb)
 * Decision trees, ensemble methods, and random forests  
   * [Decision trees](module06_01_decision_trees.ipynb)
   * [Ensemble methods and random forests](module06_02_ensemble_methods.ipynb)
@@ -47,4 +53,4 @@ The notebooks for this course are divided into the following modules:
 * Naive Bayes
   * [Text classification with Naive Bayes](notebooks/module09_01_naive_bayes.ipynb)
 
-* Appendix:  a brief introduction to Python [notebook](notebooks/module0_01_python_intro.ipynb)
+* Appendix:  a brief introduction to Python [ [notebook](notebooks/module0_01_python_intro.ipynb) ]
