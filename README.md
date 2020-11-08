@@ -8,7 +8,7 @@ This repository contains a set of Jupyter notebooks for Colorado State Universit
 <img style="padding: 10px; float:right;" alt="CSU" src="https://static.colostate.edu/logo/reslogo-v2/assets/img/csu-responsive-symbol.min.svg" width="2000">
 
 
-For most algorithms we present implementations from scratch and practice using  [scikit-learn](https://scikit-learn.org/).
+For most algorithms we present implementations and also practice using them with [scikit-learn](https://scikit-learn.org/).
 Algorithms are presented using a matrix/vector abstraction that translates to efficient Numpy code.
 Neural networks are introduced using [keras](https://keras.io/).
 
