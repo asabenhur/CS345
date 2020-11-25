@@ -5,10 +5,10 @@
 
 This repository contains a set of Jupyter notebooks for Colorado State University's introductory machine learning course [CS345: Machine Learning Foundations and Practice](https://www.cs.colostate.edu/~cs345/).
 
-<img style="padding: 10px; float:right;" alt="CSU" src="https://static.colostate.edu/logo/reslogo-v2/assets/img/csu-responsive-symbol.min.svg" width="2000">
+<img style="padding: 10px; float:right;" alt="CSU" src="https://static.colostate.edu/logo/reslogo-v2/assets/img/csu-responsive-symbol.min.svg" width="1500">
 
 
-For most algorithms we present implementations and also practice using them with [scikit-learn](https://scikit-learn.org/).
+For most algorithms we present implementations from scratch and practice using  [scikit-learn](https://scikit-learn.org/).
 Algorithms are presented using a matrix/vector abstraction that translates to efficient Numpy code.
 Neural networks are introduced using [keras](https://keras.io/).
 
@@ -46,7 +46,8 @@ The notebooks for this course are divided into the following modules:
   * [Ensemble methods and random forests](module06_02_ensemble_methods.ipynb)
 * Towards neural networks:  Logistic regression
   * [A primer in probability](notebooks/module07_01_probability.ipynb)
-  * [Logistic regression](notebooks/module07_01_logistic_regression.ipynb)
+  * [Logistic regression](notebooks/module07_02_logistic_regression.ipynb)
+  * [Regularization revisited](notebooks/module07_03_regularization_revisited.ipynb)
 * Neural networks
   * [An introduction to feed forward networks](notebooks/module08_01_neural_networks_mlp.ipynb)
 * Naive Bayes
