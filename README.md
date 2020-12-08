@@ -50,6 +50,7 @@ The notebooks for this course are divided into the following modules:
   * [Regularization revisited](notebooks/module07_03_regularization_revisited.ipynb)
 * Neural networks
   * [An introduction to feed forward networks](notebooks/module08_01_neural_networks_mlp.ipynb)
+  * [Feed forward networks using keras](notebooks/module08_02_neural_networks_keras.ipynb)
 * Naive Bayes
   * [Text classification with Naive Bayes](notebooks/module09_01_naive_bayes.ipynb)
 
