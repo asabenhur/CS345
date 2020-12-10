@@ -51,8 +51,11 @@ The notebooks for this course are divided into the following modules:
 * Neural networks
   * [An introduction to feed forward networks](notebooks/module08_01_neural_networks_mlp.ipynb)
   * [Feed forward networks using keras](notebooks/module08_02_neural_networks_keras.ipynb)
+  * [Image classification using feed forward neural networks](notebooks/module08_03_neural_networks_mnist.ipynb)
 * Naive Bayes
   * [Text classification with Naive Bayes](notebooks/module09_01_naive_bayes.ipynb)
+* Conclusions
+    * [A summary of supervised learning](notebooks/module10_01_conclusions.ipynb)
 
 * Appendix:  a brief introduction to Python [ [notebook](notebooks/module0_01_python_intro.ipynb) ]
 
