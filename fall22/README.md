@@ -46,8 +46,8 @@ The notebooks for this course are divided into the following modules:
   * [Decision trees](notebooks/module06_01_decision_trees.ipynb)
   * [Ensemble methods and random forests](notebooks/module06_02_ensemble_methods.ipynb)
 * Neural networks
-  * [An introduction to feed forward networks](notebooks/module08_01_neural_networks_mlp.ipynb)
-  * [Feed forward networks with keras](notebooks/module08_02_neural_networks_keras.ipynb)
-  * [Image classification using feed forward neural networks](notebooks/module08_03_neural_networks_mnist.ipynb)
+  * [An introduction to feed forward networks](notebooks/module07_01_neural_networks_mlp.ipynb)
+  * [Feed forward networks with keras](notebooks/module07_02_neural_networks_keras.ipynb)
+  * [Image classification using feed forward neural networks](notebooks/module07_03_neural_networks_mnist.ipynb)
 * Conclusions
     * [Course summary](notebooks/module08_01_conclusions.ipynb)
