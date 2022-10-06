@@ -43,8 +43,8 @@ The notebooks for this course are divided into the following modules:
   * [Model selection and nested cross-validation](notebooks/module05_03_model_selection.ipynb) 
   * [Measuring classifier accuracy](notebooks/module05_04_classifier_accuracy.ipynb)
 * Decision trees, ensemble methods, and random forests
-  * [Decision trees](module06_01_decision_trees.ipynb)
-  * [Ensemble methods and random forests](module06_02_ensemble_methods.ipynb)
+  * [Decision trees](notebooks/module06_01_decision_trees.ipynb)
+  * [Ensemble methods and random forests](notebooks/module06_02_ensemble_methods.ipynb)
 * Neural networks
   * [An introduction to feed forward networks](notebooks/module08_01_neural_networks_mlp.ipynb)
   * [Feed forward networks with keras](notebooks/module08_02_neural_networks_keras.ipynb)
