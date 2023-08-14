@@ -13,6 +13,5 @@ Neural networks are introduced using [keras](https://keras.io/).
 
 These course materials were developed with help from a grant from the [Colorado Department of Higher Education's OER Council](http://masterplan.highered.colorado.gov/oer-in-colorado/).
 
-<img style="padding: 10px; float:right;" alt="CO dept of higher education" src="http://masterplan.highered.colorado.gov/wp-content/uploads/2019/06/co_cdhe__dept_rgb.png" width="150">
 
 
