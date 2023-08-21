@@ -18,10 +18,11 @@ The notebooks for this course are divided into the following modules:
   * [Visualizing data with Matplotlib](notebooks/module00_04_matplotlib.ipynb)
 * Vectors, matrices, dot products, hyperplanes and the perceptron
   * [Labeled data and supervised learning](notebooks/module01_01_labeled_data.ipynb)
-  * [Vectors and dot products](notebooks/module01_02_vectors_dot_products.ipynb)
-  * [Hyperplanes](notebooks/module01_03_hyperplanes.ipynb)
-  * [Matrices](notebooks/module01_04_matrices.ipynb)
-  * [Our first classifier:  The perceptron](notebooks/module01_05_perceptron.ipynb)
+  * [Vectors](notebooks/module01_02_vectors.ipynb)
+  * [Dot products](notebooks/module01_03_dot_products.ipynb)	
+  * [Hyperplanes](notebooks/module01_04_hyperplanes.ipynb)
+  * [Matrices](notebooks/module01_05_matrices.ipynb)
+  * [Our first classifier:  The perceptron](notebooks/module01_06_perceptron.ipynb)
 * More classifiers: nearest neighbors, SVMs; principal components analysis
   * [Nearest neighbor classification](notebooks/module02_01_nearest_neighbors.ipynb)
   * [Nearest neighbor classification (part 2)](notebooks/module02_02_more_nearest_neighbors.ipynb)
