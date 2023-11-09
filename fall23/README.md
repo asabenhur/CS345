@@ -43,6 +43,7 @@ The notebooks for this course are divided into the following modules:
   * [Cross-validation](notebooks/module05_02_cross_validation.ipynb)
   * [Model selection and nested cross-validation](notebooks/module05_03_model_selection.ipynb) 
   * [Measuring classifier accuracy](notebooks/module05_04_classifier_accuracy.ipynb)
+  * [Multi-class classification](notebooks/module05_05_multi_class.ipynb)
 * Decision trees, ensemble methods, and random forests
   * [Decision trees](notebooks/module06_01_decision_trees.ipynb)
   * [Ensemble methods and random forests](notebooks/module06_02_ensemble_methods.ipynb)
