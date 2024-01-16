@@ -39,7 +39,7 @@ The notebooks for this course are divided into the following modules:
   * [Regularization](notebooks/module04_02_regularization.ipynb)
   * [Kernels and regularization for non-linear SVMs](notebooks/module04_03_kernels.ipynb)
 * Classifier evaluation
-  * [Hyperparameters and the validation set](notebooks/module05_hyperparameters_validation.ipynb)
+  * [Hyperparameters and the validation set](notebooks/module05_01_hyperparameters_validation.ipynb)
   * [Cross-validation](notebooks/module05_02_cross_validation.ipynb)
   * [Model selection and nested cross-validation](notebooks/module05_03_model_selection.ipynb) 
   * [Measuring classifier accuracy](notebooks/module05_04_classifier_accuracy.ipynb)
