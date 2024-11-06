@@ -42,7 +42,9 @@ The notebooks for this course are divided into the following modules:
   * [Hyperparameters and the validation set](notebooks/module05_hyperparameters_validation.ipynb)
   * [Cross-validation](notebooks/module05_02_cross_validation.ipynb)
   * [Model selection and nested cross-validation](notebooks/module05_03_model_selection.ipynb) 
-  * [Measuring classifier accuracy](notebooks/module05_04_classifier_accuracy.ipynb)
+  * [Measuring classifier
+    accuracy](notebooks/module05_04_classifier_accuracy.ipynb)
+  * [Multi-class classification](notebooks/module05_05_multiclass.ipynb)
 * Decision trees, ensemble methods, and random forests
   * [Decision trees](notebooks/module06_01_decision_trees.ipynb)
   * [Ensemble methods and random forests](notebooks/module06_02_ensemble_methods.ipynb)
@@ -51,4 +53,5 @@ The notebooks for this course are divided into the following modules:
   * [Feed forward networks with keras](notebooks/module07_02_neural_networks_keras.ipynb)
   * [Image classification using feed forward neural networks](notebooks/module07_03_neural_networks_mnist.ipynb)
 * Conclusions
-    * [Course summary](notebooks/module08_01_conclusions.ipynb)
+    * [Running and describing machine learning experiments](notebooks/module08_01_running_and_describing_ml_experiments.ipynb)
+    * [Course summary](notebooks/module08_02_conclusions.ipynb)
